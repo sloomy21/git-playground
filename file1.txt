@@ -1,4 +1,4 @@
-new line added from github
-file1 
+file1 edited on my local machen
 line 2 
 line 3 
+done editing on github
